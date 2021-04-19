@@ -1,1 +1,1 @@
-# mapReduce_countFrequency
+# mapReduce_FrequencyMapper
